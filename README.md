@@ -40,7 +40,7 @@ From the the DecisionTree and RandomForestClassifier models, we achieved a highe
 
 ### What did we learn from this project?
 <li>Line Plot EDA</li>
-<li>Usage on OneHotEncodern from sklearn.preprocessing for categorical variables</li>
+<li>Usage on OneHotEncoder from sklearn.preprocessing for categorical variables</li>
 <li>Handling and categorising datasets for easier computation and visualization</li>
 <li>RandomForest from scikit-learn</li>
 
