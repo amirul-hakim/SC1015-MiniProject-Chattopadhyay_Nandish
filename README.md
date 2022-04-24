@@ -1,4 +1,4 @@
-## Welcome to Airline ticket analysis repository 
+## Welcome to Airline ticket Analysis Repository 
 
 ### About 
 This is a Mini Project for SC1015/CE1115/CZ1115/ INTRO TO DATA SCI & ART INTELLIGENCE which focuses on the price for Air Travel Industry in India. For the walkthrough, please kindly refer to the source code below - <br>
