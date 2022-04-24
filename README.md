@@ -1,7 +1,7 @@
 ## Welcome to Airline ticket Analysis Repository 
 
 ### About 
-This is a Mini Project for SC1015/CE1115/CZ1115/ INTRO TO DATA SCI & ART INTELLIGENCE which focuses on the price for Air Travel Industry in India. For the walkthrough, please kindly refer to the source code below - <br>
+This is a Mini Project for SC1015/CE1115/CZ1115/ INTRO TO DATA SCI & ART INTELLIGENCE which focuses on the price for Air Travel Industry in India. For the walkthrough, please kindly refer to the source code below - <br><br>
 [Flight Fare Prediction_Final](http://localhost:8888/notebooks/ntu/Y1S2/SC1015/Mini-Project/Flight%20Fare%20Prediction_Final.ipynb)
 
 ### Team members [Group C]:
